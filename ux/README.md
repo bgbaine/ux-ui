@@ -8,14 +8,14 @@ You can check the full project in [Figma](https://www.figma.com/design/q0sdOarf3
 
 ### 1. Product Page
 <div>
-    <img src='../media/product.png'>
+    <img src='../media/product.PNG'>
 </div>
 
 **Link**: [View full Product Page in Figma](https://www.figma.com/proto/q0sdOarf3El5ePa63Mjupu/ATIVIDADE-AULA---27%2F05?node-id=6-119&node-type=canvas&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&hide-ui=1)
 
 ### 2. User Survey
 <div>
-    <img src='../media/survey.png'>
+    <img src='../media/survey.PNG'>
 </div>
 
 **Link**: [View full User Survey Page in Figma](https://www.figma.com/proto/q0sdOarf3El5ePa63Mjupu/ATIVIDADE-AULA---27%2F05?node-id=3-15&node-type=canvas&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&hide-ui=1)
@@ -29,7 +29,7 @@ You can check the full project in [Figma](https://www.figma.com/design/q0sdOarf3
 
 ### 4. User Journey
 <div>
-    <img src='../media/journey.png'>
+    <img src='../media/journey.PNG'>
 </div>
 
 - **Link**: [View full User Journey Page in Figma]([your-figma-link-here](https://www.figma.com/proto/q0sdOarf3El5ePa63Mjupu/ATIVIDADE-AULA---27%2F05?node-id=6-283&node-type=canvas&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&hide-ui=1))
